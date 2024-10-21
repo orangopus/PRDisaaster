@@ -1,4 +1,6 @@
-# PR Disaster: The Ultimate AI-Controlled Chaos Simulator
+# PR Disaster
+
+## The Ultimate AI-Controlled Chaos Simulator
 
 In *PR Disaster*, players take control of a rogue botnet through a virtual machine (VM) in real-time, making split-second decisions that can shape the course of a worldwide crisis. As part of this dystopian scenario, you and other players influence a self-learning AI that autonomously manipulates global networks, social media, and real-world events.
 
