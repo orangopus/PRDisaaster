@@ -1,12 +1,12 @@
-# PR Disaaster
+# PR Disaster
 
-![](https://tse2.mm.bing.net/th?id=OIG3.Zk0F2eSjMHpS7adfc4qL&pid=ImgGn)
+![https://tse2.mm.bing.net/th?id=OIG3.Zk0F2eSjMHpS7adfc4qL&pid=ImgGn](https://tse1.mm.bing.net/th?id=OIG3.oVrovIqj6BOTU2YsQvGb&pid=ImgGn)
 
 ## The Ultimate AI-Controlled Chaos Simulator
 
 The missing MixPlay game from 2020 is back!
 
-In *PR Disaaster*, players take control of a rogue botnet through a virtual machine (VM) in real-time, making split-second decisions that can shape the course of a worldwide crisis. As part of this dystopian scenario, you and other players influence a self-learning AI that autonomously manipulates global networks, social media, and real-world events.
+In *PR Disaster*, players take control of a rogue botnet through a virtual machine (VM) in real-time, making split-second decisions that can shape the course of a worldwide crisis. As part of this dystopian scenario, you and other players influence a self-learning AI that autonomously manipulates global networks, social media, and real-world events.
 
 Your mission: unleash chaos, spin the narrative, and see how your collective decisions impact the AI's ability to manipulate public opinion, trigger viral trends, and even hijack world events.
 
