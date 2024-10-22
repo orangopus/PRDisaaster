@@ -1,6 +1,4 @@
-# PR Disaster
-
-![https://tse2.mm.bing.net/th?id=OIG3.Zk0F2eSjMHpS7adfc4qL&pid=ImgGn](https://tse1.mm.bing.net/th?id=OIG3.oVrovIqj6BOTU2YsQvGb&pid=ImgGn)
+![](./prd.png)
 
 ## The Ultimate AI-Controlled Chaos Simulator
 
